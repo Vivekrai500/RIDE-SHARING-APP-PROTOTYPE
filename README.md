@@ -1,4 +1,16 @@
-# Ride Sharing App
+# Ride Sharing App Prototype
+
+"COMPANY" : CODTECH IT SOLUTIONS
+
+"NAME" : VIVEK KUMAR RAI
+
+"INTERN ID" : CT06DK725
+
+"DOMAIN" : ANDROID DEVELOPMENT
+
+"DURATION" : 6 WEEKS
+
+"MENTOR" : NEELA SANTOSH
 
 ## Overview
 
@@ -58,6 +70,8 @@ Don’t forget to sync your Gradle files.
 ###Build the App
 Connect an Android device or start an emulator.
 Click the Run button (green triangle) in Android Studio.
+
+OUTPUT
 
 
 
